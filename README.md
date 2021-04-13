@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ednaldosdl/jogo_da_mem-ria" target="_blank">
-    <img src="img/Capa" alt="Capa"/>
+    <img src="img/capa.png" alt="Capa"/>
   </a>
 
 # jogo_da_memória
