@@ -1,5 +1,3 @@
-# jogo_da_mem-ria
-Desenvolvendo um jogo da memória
 
 <h1 align="center">Jogo da Memória:</h5>
 
