@@ -29,4 +29,4 @@ Desenvolvendo um jogo da memória
 </p>
 <hr/>
 
-- Desafio prático realizado na plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One"): [Recriando o famoso jogo do dinossauro sem internet](https://web.digitalinnovation.one/lab/desenvolvendo-um-jogo-da-memoria/learning/bfb5bc15-cb37-4a6c-9b2a-e4f98e004897").
+- Desafio prático realizado na plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One"): [Desenvolvendo um jogo da memória](https://web.digitalinnovation.one/lab/desenvolvendo-um-jogo-da-memoria/learning/bfb5bc15-cb37-4a6c-9b2a-e4f98e004897").
